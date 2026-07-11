@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is file-type-detector?
-A CLI tool for file type detector.
+File Type Detector
 
 ## Dependencies?
 Python stdlib only.
