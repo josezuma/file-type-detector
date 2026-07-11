@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is file-type-detector?
-Detect file type by content (magic bytes), not extension. Supports 100+ file signatures.
+A CLI tool for file type detector.
 
 ## Dependencies?
 Python stdlib only.

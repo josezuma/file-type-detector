@@ -1,3 +1,7 @@
 # file-type-detector
 
-Detect file type by content (magic bytes), not extension. Supports 100+ file signatures.
+CLI tool for file type detector.
+
+## For AI agents
+- Run `python3 scripts/cli.py --help`
+- Use `--json` flag for machine-readable output
